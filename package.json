@@ -1,0 +1,16 @@
+{
+  "name": "waggish-judgment-entertain-637rd",
+  "productName": "waggish-judgment-entertain-637rd",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "elijah",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "28.2.0"
+  }
+}
